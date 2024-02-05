@@ -1,5 +1,5 @@
-# siddarth-ajith
+# Siddarth Ajith's Webpage
 
-Welcome to my webpage
+PhD candidate and Researcher in Gravitational Physics
 
 Info on how to add a custom domain: https://deanattali.com/blog/multiple-github-pages-domains/
